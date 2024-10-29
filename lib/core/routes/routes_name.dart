@@ -5,4 +5,7 @@ class RoutesName {
   static const String basketApp = '/basket';
   static const String calculatorApp = '/calculator';
   static const String xoApp = '/xo';
+  static const String friend = '/friend';
+  static const String computer = '/computer';
+
 }
